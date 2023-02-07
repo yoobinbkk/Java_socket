@@ -1,0 +1,15 @@
+// CSV : common string value
+김길동, 44, 인천시 아무동, 개발자
+
+// xml
+<person>
+	<name>김길동</name>
+	<age>44</age>
+</person>
+
+// json
+{ person : {
+	name : '홍길동',
+	age : 44
+	}
+}
